@@ -1,0 +1,13 @@
+Download Below Jar files from springFramework2.5 for application
+aspectjweaver
+commons-dbcp
+commons-logging-1.2
+commons-pool
+hsqldb
+jstl
+junit
+servlet-api
+spring
+spring-test
+spring-webmvc
+standard
